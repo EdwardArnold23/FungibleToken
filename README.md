@@ -18,6 +18,8 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant launch via crowdsal
   ![KaseiCoinCrowdsaleContract](Images/KaseiCoinCrowdsaleContract.png)
   ## Compiled KaseiCoin Deployer Contract
   ![KaseiCoinDeployerContract](Images/KaseiCoinDeployerContract.png)
+  ## Deploy and Test the Crowdsale Contract with Blockchain
+  ![TestVideo](Images/TestVid.png)
   
 # Dependencies, Libraries & Files
   - https://remix.ethereum.org/
