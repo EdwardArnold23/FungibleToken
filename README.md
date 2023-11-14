@@ -1,5 +1,6 @@
 # KaseiCoin
-![KaseiCoin](images/mars_crypto.png)
+![KaseiCoin](Images/mars_crypto.png)
+
 # Objective
 KaseiCoin will be a fungible token that’s ERC-20 compliant launch via crowdsale.
 
